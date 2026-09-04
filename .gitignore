@@ -1,0 +1,25 @@
+# Next.js & Build outputs
+node_modules/
+.next/
+out/
+_api_server/
+*.tsbuildinfo
+
+# Local personal notes & prompts
+navodila.txt
+
+# Environment & local OS files
+.env*.local
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
